@@ -21,8 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: OceanWaves
-  m_Shader: {fileID: -6465566751694194690, guid: 373e7dceaadaacf4cb12ff01b5c4e5b7,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 373e7dceaadaacf4cb12ff01b5c4e5b7, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -119,7 +118,7 @@ Material:
     - _AlphaClip: 0
     - _AlphaClipThreshold: 0.01
     - _AlphaDensity: 6.3
-    - _BUILTIN_QueueControl: -1
+    - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _Blend: 0
     - _BumpScale: 1
